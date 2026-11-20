@@ -60,3 +60,7 @@ Trợ lý hiện là parser/xếp hạng danh mục. Các kết quả/gợi ý c
 Dockerfile build frontend/backend từ source. Profile `shared-test` cần MySQL đã có schema cùng cấu hình riêng; không seed hoặc migrate tự động. Biến mẫu: [deploy/shared-test.env.example](deploy/shared-test.env.example). Không đưa secret thật vào Git. Hướng dẫn kiến trúc và hợp đồng trong [ARCHITECTURE.md](ARCHITECTURE.md), [backend/README.md](backend/README.md), [docs/BACKEND-API.md](docs/BACKEND-API.md).
 
 Source Expo/IPA, công cụ ký app, tài liệu họp/ảnh mockup gốc không thuộc repo web này. Sales web đã nằm trong `src`; bản app native được phát triển riêng. Một số tài liệu kỹ thuật giữ tham chiếu lịch sử đến app, ảnh kiểm thử và repo nguồn cũ.
+
+## Tải kèm dữ liệu local gốc
+
+Nếu được chủ dự án cấp quyền vào repo dữ liệu riêng tư, có thể khôi phục database và các tệp gốc để chạy cùng dữ liệu. Xem [docs/LOCAL-DATA.md](docs/LOCAL-DATA.md). Bản dữ liệu riêng tư được tách khỏi mã nguồn công khai; không import đè database đang có.
