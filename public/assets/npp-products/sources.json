@@ -1,0 +1,103 @@
+[
+  {
+    "file": "milk.png",
+    "source": "https://product.hstatic.net/200000077081/product/frq_d4e4f25b0cda48da8e61eebeb38a54e2.png",
+    "sha256": "28792d5192105a13eb4f3ff6a06722eaa912becd3ad0830bf73d67e4c0e94f0c",
+    "bytes": 206715,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging",
+    "originalSha256": "c4aac0cdf9ea14d424e53e852fdc477e24b0f2a20a50593be22246191f8cb161"
+  },
+  {
+    "file": "tea.jpg",
+    "source": "https://itoen.com/cdn/shop/products/Oi-Ocha-Green-1.jpg?width=400",
+    "sha256": "405526cd91b41f16969eb2478bd030c2de7ba4f0536ba734c2bcff7f7c470efa",
+    "bytes": 17280,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging",
+    "originalSha256": "09231edb3af11723f6042c91c20e73803a59aa29ae71dcced32ed08b636d9cd2"
+  },
+  {
+    "file": "water.png",
+    "source": "https://img03.rl0.ru/afisha/e1200x1200i/daily.afisha.ru/uploads/images/9/7f/97f9bbab591e4ea3a8866b995de136b1.png",
+    "sha256": "23e7827435530beb63eed7d74a7ee9b688ef66945dc815dc14603a557dcc5e92",
+    "bytes": 468542,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging",
+    "originalSha256": "5f048948f1f03527ec0fb785b3487f6fe044ea4cd8c14c0b77196a1920901287"
+  },
+  {
+    "file": "almond.jpg",
+    "source": "https://www.walnutcreekfoods.com/sites/default/files/2024-01/311881.jpg",
+    "sha256": "d9034db098f4e697f5bac415b94edcd43c1d9924ff725623d7a9da71c4f52912",
+    "bytes": 245789,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging",
+    "originalSha256": "0a1427c9fc731ffb3d034a8afc6eeee3d70bdc26f04ac4024ac9ec758bb071b2"
+  },
+  {
+    "file": "orange.jpg",
+    "source": "https://product.hstatic.net/1000282430/product/orange-juice-100_-prima-1l_6d5cd3e63350459d8376a7571268e1b6.jpg",
+    "sha256": "65e869d41f284ff17aa8ac2a242412105934b8ca3c276e6fa4ee7e035b865bb8",
+    "bytes": 29698,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging",
+    "originalSha256": "1cecff9c2c02d98b15b3e31174040892bb77323ed69ee1e8dda6cbedc6578d90"
+  },
+  {
+    "file": "cookies.png",
+    "source": "https://images.heb.com/is/image/HEBGrocery/002089040-1?hei=400&wid=400&fit=constrain",
+    "sha256": "c4f6d30ee91731d4eb166e048c134cd9b90c87b66a91ffae81b046a79439c910",
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging",
+    "originalSha256": "c4f6d30ee91731d4eb166e048c134cd9b90c87b66a91ffae81b046a79439c910"
+  },
+  {
+    "file": "soy.jpg",
+    "source": "https://product.hstatic.net/200000077081/product/cda_7b208b0b70c94e74b0be54c0c6c94333.png",
+    "page": "https://moonmilk.vn/products/da-m-n-less-sugar-calcium-soy-milk-fami-200ml-t7",
+    "sha256": "7d9a57f10f3d98223fdc883cb180e7980069088af171284be15bff1bb9cbfa28",
+    "originalSha256": "fc814bbfa1c8fbb8d93ef66862d2538b59ea8734d86371e79b43d0bf2a02e702",
+    "bytes": 33375,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging"
+  },
+  {
+    "file": "rice.jpg",
+    "source": "https://bizweb.dktcdn.net/100/514/431/products/15b1bccdfb395a63cbc8059e2714fa4aef34ad5c38faaa7ef84053fe2197f808-jpeg.webp?v=1715918029703",
+    "page": "https://satomart.vn/banh-gao-nhat-ban-ichi-goi-100g",
+    "sha256": "b0e712f990583a42fc1fcbfb062cbb3742051e9e125e102edc25acdb37db7765",
+    "originalSha256": "0c2b7980df71bcce0f48a237ec9656e9ea549fa9ba9a435b6fbceec00beba988",
+    "bytes": 80661,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging"
+  },
+  {
+    "file": "apple.jpg",
+    "source": "https://bk.brooklynfare.com/cdn/shop/products/4124400009_1200x1200.jpg?v=1676232951",
+    "page": "https://bk.brooklynfare.com/products/4124400009",
+    "sha256": "fbbc1ee7f97258228387827509e49950bd166ff96739ed04f2fe794936184a14",
+    "originalSha256": "6359365419bbbe267a939d908a0ba468911cb6f0bbe925bb87f46f0127b3c8e9",
+    "bytes": 38522,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging"
+  },
+  {
+    "file": "lemon-tea.jpg",
+    "source": "https://product.hstatic.net/200000384195/product/tra-xanh-c2-huong-chanh-455ml-202106220927496265_288fe2634226472191bde9b07e9ff6cc.jpg",
+    "page": "https://phanphoibia.com/products/thung-tra-xanh-huong-chanh-c2-455ml-455ml-24-chai",
+    "sha256": "738ef0e6fdf2066ec4e55840c16d0ffd021a7c0b2b7a7b7528ae28dc11716ea2",
+    "originalSha256": "eed360b48aa0c1dc37c46d28097adc24fb2718f151c6e596d0c01f4dd14c9d43",
+    "bytes": 26755,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging"
+  },
+  {
+    "file": "water-350.jpg",
+    "source": "https://product.hstatic.net/200000352097/product/upload_ad2e4bf811eb457f86d54e2a4b5af9ab.jpg",
+    "page": "https://genshai.com.vn/products/8934840000147",
+    "sha256": "11247c64a99bac9589fb9425562769c80391a0b2cc43c15871f2ee92950031d3",
+    "originalSha256": "aa6d5bcc2fdb6d27f1e090043a5d4cfd1e0cace990533481888fea71e3f2ea0f",
+    "bytes": 22480,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging"
+  },
+  {
+    "file": "sparkling-water.jpg",
+    "source": "https://product.hstatic.net/1000288770/product/nuoc_khoang_co_ga_vinh_hao_chai_500ml_080d728343514f828676dc8d27d7d76d_master.jpg",
+    "page": "https://www.webtaphoa.vn/products/nuoc-khoang-co-ga-vinh-hao-chai-500ml",
+    "sha256": "1c0cabd4bc5a7bc8d55e572949c9114896e759f1ff35adcf80dae4c9d4a5f86e",
+    "originalSha256": "0ea844078eb3c1a1ff6b864ffa40f5a0843d9a8744ed19dfec0ce773b1696a1a",
+    "bytes": 17913,
+    "usage": "illustrative catalog thumbnail; not verified SKU packaging"
+  }
+]

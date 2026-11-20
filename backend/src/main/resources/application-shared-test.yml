@@ -1,0 +1,48 @@
+# Public test copy of the existing database, not a production installation.
+# No H2 fallback, demo seeding, schema creation, or automatic user reset.
+server:
+  address: 0.0.0.0
+  forward-headers-strategy: framework
+spring:
+  datasource:
+    url: jdbc:mysql://${DB_HOST}:${DB_PORT:3306}/${DB_NAME}?connectionTimeZone=UTC&forceConnectionTimeZoneToSession=true&sslMode=REQUIRED&characterEncoding=UTF-8
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 5
+      minimum-idle: 1
+  flyway:
+    enabled: false
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration,org.springframework.boot.autoconfigure.data.redis.RedisRepositoriesAutoConfiguration
+management:
+  health:
+    redis:
+      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: health
+  endpoint:
+    health:
+      show-details: never
+springdoc:
+  api-docs:
+    enabled: false
+  swagger-ui:
+    enabled: false
+synera:
+  bootstrap:
+    enabled: false
+  cors-origins: ${CORS_ORIGINS}
+  jwt:
+    secret: ${JWT_SECRET}
+  session:
+    secure-cookie: true
+  storage:
+    local-enabled: true
+  ai:
+    mode: ${AI_MODE:manual}
+  integration:
+    otp-mode: local
